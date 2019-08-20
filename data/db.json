@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "5",
+      "name": "hello",
+      "display_name": "whyyyyy",
+      "description": "please work"
+    },
+    {
+      "id": "6789",
+      "name": "corey",
+      "display_name": "coreyIScool",
+      "description": "hawaiian"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "stores",
+      "name": "book store",
+      "display_name": "stores",
+      "description": "stores that sell books"
+    },
+    {
+      "id": "6789",
+      "category": "human",
+      "name": "corey chang",
+      "display_name": "hawaiian",
+      "description": "hawaiian"
+    }
+  ]
+}
